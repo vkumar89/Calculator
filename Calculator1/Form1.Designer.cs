@@ -377,7 +377,7 @@
             this.btnC.Name = "btnC";
             this.btnC.Size = new System.Drawing.Size(100, 58);
             this.btnC.TabIndex = 2;
-            this.btnC.Text = "C";
+            this.btnC.Text = "c";
             this.btnC.UseVisualStyleBackColor = false;
             // 
             // btnCE
