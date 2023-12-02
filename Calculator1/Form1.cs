@@ -137,14 +137,14 @@ namespace Calculator1
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            richTextBox1.Text = richTextBox1.Text + "+ ";
+            richTextBox1.Text = richTextBox1.Text + "+";
 
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             
-
+            
         }
 
         private void btnCE_Click(object sender, EventArgs e)
